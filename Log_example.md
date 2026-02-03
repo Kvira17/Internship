@@ -11,15 +11,14 @@
 > Keep it concise, but make sure someone else reading it can understand what you did.
 
 
-> ## Example:
-
-
 # Weekly Log
 
-## Day 1: 20/01/2026
+## Day 1: 3/02/2026
 - Created GitHub repository
 - Learned basic GitHub Desktop workflow
-
-## Day 2: 23/01
-- KY-018 Photoresistor Module test with Arduino Uno (microcontroller: Joy-IT R3 DIP)
-- Tested KY-004 Taster Module with Arduino Uno (microcontroller: Joy-IT R3 DIP)
+- Tested KY-028 Temperature Sensor Module (Thermistor) test with Arduino Uno (microcontroller: Joy-IT R3 DIP)
+- Tested KY-050 Ultrasonic Distance Sensor with Arduino Uno (microcontroller: Joy-IT R3 DIP)
+- Tested KY-050 Ultrasonic Distance Sensor with Arduino Uno (microcontroller: Joy-IT R3 DIP)
+- Tested KY-050 Ultrasonic Distance Sensor with Arduino Uno (microcontroller: Joy-IT R3 DIP)
+- Tested KY-050 Ultrasonic Distance Sensor with Arduino Uno (microcontroller: Joy-IT R3 DIP)
+- Tested KY-050 Ultrasonic Distance Sensor with Arduino Uno (microcontroller: Joy-IT R3 DIP)
