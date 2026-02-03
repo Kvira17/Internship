@@ -21,9 +21,9 @@
 - Library: None required (uses built-in analogRead())
 
 #### PIN Connection - Arduino Uno (Joy-IT R3 DIP)
-VCC	---> 5V
-GND	---> GND
-AO	---> A0
+- VCC	---> 5V
+- GND	---> GND
+- AO	---> A0
 
 #### Arduino Sketch
 
@@ -69,10 +69,10 @@ The ultrasonic distance sensor measures distance by emitting an ultrasonic pulse
 - Library: None required (uses built-in analogRead())
 
 #### PIN Connection - Arduino Uno (Joy-IT R3 DIP)
-VCC	  ---> 5V
-GND	  ---> GND
-TRIG	---> D9
-ECHO	---> D10
+- VCC	  ---> 5V
+- GND	  ---> GND
+- TRIG	---> D9
+- ECHO	---> D10
 
 #### Arduino Sketch
 
