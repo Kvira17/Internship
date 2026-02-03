@@ -263,7 +263,7 @@ delay(1000);
 
 ### Basic Information
 - Sensor name: KY-013 Temperature Sensor Module
-- Purpose: Controls a 5V relay module
+- Purpose: Reads temperature from an analog thermistor module
 - Interface: Digital
 
 - ### How it works
